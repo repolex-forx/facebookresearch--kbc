@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "kbc",
+  "versions": [
+    {
+      "commit": "248e93136448661cac54020054b929997394f3d2",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:00:53.812351+00:00"
+    }
+  ]
+}
